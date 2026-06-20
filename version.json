@@ -1,6 +1,4 @@
 {
-  "version": "1.5.2",
-  "url": "https://raw.githubusercontent.com/DazzaJProjects/Binnie/refs/heads/main/ota/moray/binnie.ino.bin",
   "moray": {
     "version": "1.5.2",
     "url": "https://raw.githubusercontent.com/DazzaJProjects/Binnie/refs/heads/main/ota/moray/binnie.ino.bin"
