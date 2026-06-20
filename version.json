@@ -1,18 +1,18 @@
 {
   "moray": {
-    "version": "4.1",
+    "version": "1.5",
     "url": "https://raw.githubusercontent.com/DazzaJProjects/Binnie/refs/heads/main/ota/moray/firmware.bin"
   },
   "aberdeenshire": {
-    "version": "4.1",
+    "version": "1",
     "url": "https://raw.githubusercontent.com/DazzaJProjects/Binnie/refs/heads/main/ota/aberdeenshire/firmware.bin"
   },
   "aberdeencity": {
-    "version": "4.1",
+    "version": "1",
     "url": "https://raw.githubusercontent.com/DazzaJProjects/Binnie/refs/heads/main/ota/aberdeencity/firmware.bin"
   },
   "highland": {
-    "version": "4.1",
+    "version": "1",
     "url": "https://raw.githubusercontent.com/DazzaJProjects/Binnie/refs/heads/main/ota/highland/firmware.bin"
   }
 }
